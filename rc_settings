@@ -1,0 +1,4 @@
+alias vi='vim'
+alias cls='clear'
+alias cds='cd /mnt/s'
+eval `keychain --eval id_rsa`
