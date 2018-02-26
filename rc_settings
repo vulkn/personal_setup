@@ -1,4 +1,7 @@
 alias vi='vim'
 alias cls='clear'
 alias cds='cd /mnt/s'
+alias gst='git st'
+alias gci='git ci'
+alias gdf='git df'
 eval `keychain --eval id_rsa`

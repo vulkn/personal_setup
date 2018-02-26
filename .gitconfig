@@ -1,0 +1,10 @@
+[user]
+	name = vulkn
+	email = vulkn@github.com
+[core]
+	editor = vim
+[alias]
+	st = status
+	ci = commit -v
+	df = diff
+	p = push origin master
